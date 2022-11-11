@@ -138,7 +138,7 @@ https://movirecommendator.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/65599483/152023245-13027091-a6ea-40fc-b1ea-6837aa50417d.png)
 
-## [Project 0 - Terrorism](https://github.com/PriyamBhalla/Terrorism)
+## [Project 1 - Terrorism](https://github.com/PriyamBhalla/Terrorism)
 This is a project done on terrorism data set that takes place in the country.
 ![image](https://user-images.githubusercontent.com/65599483/201320142-6800b861-f74d-4a18-b2c2-dd2bd13d406e.png)
 
