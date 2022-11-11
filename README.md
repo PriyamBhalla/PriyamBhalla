@@ -6,49 +6,10 @@
 I've had data analytics knowledge using Pandas Matplotlib, Numpy, Tableau, PowerBI amongst others.
 
 My Projects are as follows:
-### 1.Tableau Projects:
-## [Project 0 - Covid Data Analysis](https://github.com/PriyamBhalla/Covid-Data-Analysis)
-This is a Covid Data Analysis Project
-Here is the dashboard that helps to find the insights of the data like total vaccination done, First dose completed , Fully Vaccinated , Total Active Cases etc
-You can find this dashboard at:
-https://public.tableau.com/app/profile/priyam.bhalla/viz/newcovid_16247284396260/Dashboard1
 
 
-Dashboard is like follows:
 
-![Dashboard 1](https://user-images.githubusercontent.com/65599483/150959445-b61558c7-7c7e-4d99-98f5-5d8c6c530ec7.png)
-
-
-Here we can also filter with the help of locations.
-
-
-## [Project 1 - Wine Data Analysis](https://github.com/PriyamBhalla/Wine-Data-Analysis)
-
-This is the wine review Dashboard which cam help to gain insights about the different types of wines with respect to the reviewers.
-
-You can view this dashboard here :
-
-
-https://public.tableau.com/app/profile/priyam.bhalla/viz/Winedata_16288506866690/Story1
-
-This dashboard can help to find the maximum points to the wine that is the best wine and the most expensive wine and the country where wines are mostly sold.
-
-The dashboard is as follows :
-
-
-![Story 1 (1)](https://user-images.githubusercontent.com/65599483/150962746-067b780e-8555-486d-adfc-bd6060392364.png)
-
-
-![Story 1](https://user-images.githubusercontent.com/65599483/150962779-7814bb58-d0e5-415a-a499-d6c7d2bf5230.png)
-
-
-![Story 1 (2)](https://user-images.githubusercontent.com/65599483/150962666-de494f6a-b61e-489d-8113-4d7d78a41711.png)
-
-
-Here we can filter the wine data with the help of countries.
-
-
-### 2.PowerBI Projects:
+### 1.PowerBI Projects:
 
 ## [Project 0 - Customer Churn Data Analysis](https://github.com/PriyamBhalla/PWC)
 This is the tasks performed by me for PwC New world. New skills: Power BI Virtual Case Experience organized by Forage.
@@ -123,6 +84,47 @@ The dashboard is as follows :
 
 
 ![image](https://user-images.githubusercontent.com/65599483/150503875-c44f155a-3700-4422-b359-cdb3d046aad4.png)
+
+### 2.Tableau Projects:
+## [Project 0 - Covid Data Analysis](https://github.com/PriyamBhalla/Covid-Data-Analysis)
+This is a Covid Data Analysis Project
+Here is the dashboard that helps to find the insights of the data like total vaccination done, First dose completed , Fully Vaccinated , Total Active Cases etc
+You can find this dashboard at:
+https://public.tableau.com/app/profile/priyam.bhalla/viz/newcovid_16247284396260/Dashboard1
+
+
+Dashboard is like follows:
+
+![Dashboard 1](https://user-images.githubusercontent.com/65599483/150959445-b61558c7-7c7e-4d99-98f5-5d8c6c530ec7.png)
+
+
+Here we can also filter with the help of locations.
+
+
+## [Project 1 - Wine Data Analysis](https://github.com/PriyamBhalla/Wine-Data-Analysis)
+
+This is the wine review Dashboard which cam help to gain insights about the different types of wines with respect to the reviewers.
+
+You can view this dashboard here :
+
+
+https://public.tableau.com/app/profile/priyam.bhalla/viz/Winedata_16288506866690/Story1
+
+This dashboard can help to find the maximum points to the wine that is the best wine and the most expensive wine and the country where wines are mostly sold.
+
+The dashboard is as follows :
+
+
+![Story 1 (1)](https://user-images.githubusercontent.com/65599483/150962746-067b780e-8555-486d-adfc-bd6060392364.png)
+
+
+![Story 1](https://user-images.githubusercontent.com/65599483/150962779-7814bb58-d0e5-415a-a499-d6c7d2bf5230.png)
+
+
+![Story 1 (2)](https://user-images.githubusercontent.com/65599483/150962666-de494f6a-b61e-489d-8113-4d7d78a41711.png)
+
+
+Here we can filter the wine data with the help of countries.
 
 
 ### 3.Python Projects:
